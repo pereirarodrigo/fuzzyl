@@ -10,3 +10,4 @@ Main references used for this project include:
 
 * "Fuzzy Inference" at ScienceDirect. Available at: https://www.sciencedirect.com/topics/engineering/fuzzy-inference;
 * "A very brief introduction to Fuzzy Logic and Fuzzy Systems" by Carmel Gafa at Medium. Available at: https://towardsdatascience.com/a-very-brief-introduction-to-fuzzy-logic-and-fuzzy-systems-d68d14b3a3b8. 
+* Fuzzy Logic - Inference System at TutorialsPoint. Available at: https://www.tutorialspoint.com/fuzzy_logic/fuzzy_logic_inference_system.htm.
