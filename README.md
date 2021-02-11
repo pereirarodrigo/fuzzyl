@@ -4,4 +4,4 @@ Fuzzy logic is one of the pillars of computational intelligence, and is most oft
 The main library used for this project is **SciKit-Fuzzy**, which is available here: https://github.com/scikit-fuzzy/scikit-fuzzy. Other dependencies of this project include:
 
 * NumPy (1.19.5);
-* Matplotlib (3.2.2).
+* NetworkX (2.5, implicit).
