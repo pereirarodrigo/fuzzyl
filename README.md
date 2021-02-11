@@ -5,3 +5,8 @@ The main library used for this project is **SciKit-Fuzzy**, which is available h
 
 * NumPy (1.19.5);
 * NetworkX (2.5, implicit).
+
+Main references used for this project include:
+
+* "Fuzzy Inference" at ScienceDirect. Available at: https://www.sciencedirect.com/topics/engineering/fuzzy-inference;
+* "A very brief introduction to Fuzzy Logic and Fuzzy Systems" by Carmel Gafa at Medium. Available at: https://towardsdatascience.com/a-very-brief-introduction-to-fuzzy-logic-and-fuzzy-systems-d68d14b3a3b8. 
