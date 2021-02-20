@@ -9,6 +9,7 @@ The main library used for this project is **SciKit-Fuzzy**, which is available h
 Main references used for this project include:
 
 * "Fuzzy Inference" at ScienceDirect. Available at: https://www.sciencedirect.com/topics/engineering/fuzzy-inference;
+* "Fuzzy Control Systems: The Tipping Problem" at SciKit-Fuzzy's PythonHosted.org page. Available at: https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html;
 * "A very brief introduction to Fuzzy Logic and Fuzzy Systems" by Carmel Gafa at Medium. Available at: https://towardsdatascience.com/a-very-brief-introduction-to-fuzzy-logic-and-fuzzy-systems-d68d14b3a3b8. 
 * "Membership Functions" at eMathTeacher. Available at: http://www.dma.fi.upm.es/recursos/aplicaciones/logica_borrosa/web/fuzzy_inferencia/funpert_en.htm#:~:text=Practice%3A%20FIS%20Creation-,MEMBERSHIP%20FUNCTIONS,value%20between%200%20and%201.&text=Triangular%20function%3A%20defined%20by%20a,where%20a%20%3C%20m%20%3C%20b.
 * Fuzzy Logic - Inference System at TutorialsPoint. Available at: https://www.tutorialspoint.com/fuzzy_logic/fuzzy_logic_inference_system.htm.
