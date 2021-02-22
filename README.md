@@ -6,7 +6,7 @@ The main library used for this project is **SciKit-Fuzzy**, which is available h
 * NumPy (1.19.5);
 * NetworkX (2.5, implicit).
 
-Main references used for this project include:
+Main references used in this project include:
 
 * "Fuzzy Inference" at ScienceDirect. Available at: https://www.sciencedirect.com/topics/engineering/fuzzy-inference;
 * "Fuzzy Control Systems: The Tipping Problem" at SciKit-Fuzzy's PythonHosted.org page. Available at: https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html;
